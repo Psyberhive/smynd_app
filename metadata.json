@@ -1,0 +1,5 @@
+{
+  "name": "NeuroFace Point Cloud",
+  "description": "A 3D interactive point cloud visualizer where particles fly and merge into a face mesh with ripple effects.",
+  "requestFramePermissions": []
+}
